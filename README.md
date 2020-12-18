@@ -8,6 +8,7 @@
     Perform edge detection by using Sobel Filter
 <img width="624" alt="스크린샷 2020-12-19 오전 5 37 48" src="https://user-images.githubusercontent.com/50725139/102659187-56bfce80-41bc-11eb-9c34-abf09406246b.png">
 <img width="716" alt="스크린샷 2020-12-19 오전 5 38 01" src="https://user-images.githubusercontent.com/50725139/102659196-5d4e4600-41bc-11eb-8f5b-54445216a50a.png">
+    
     Perform NMS(Non-Minumun Supression)
 <img width="624" alt="스크린샷 2020-12-19 오전 5 38 08" src="https://user-images.githubusercontent.com/50725139/102659205-617a6380-41bc-11eb-8b49-c82ac51ca11f.png">
 <img width="716" alt="스크린샷 2020-12-19 오전 5 38 20" src="https://user-images.githubusercontent.com/50725139/102659226-6808db00-41bc-11eb-9d9f-ffcbfd3af03f.png">
@@ -28,14 +29,18 @@
 ### A2_homography
     Image Maping
 <img width="1193" alt="스크린샷 2020-12-19 오전 5 52 35" src="https://user-images.githubusercontent.com/50725139/102660450-66d8ad80-41be-11eb-90b0-4d8aa34494eb.png">
+    
     Compute Homography and Warping
     Normal
 <img width="843" alt="스크린샷 2020-12-19 오전 5 52 51" src="https://user-images.githubusercontent.com/50725139/102660474-6fc97f00-41be-11eb-9e38-a5418a55ba56.png">
+    
     RANSAC
 <img width="843" alt="스크린샷 2020-12-19 오전 5 53 02" src="https://user-images.githubusercontent.com/50725139/102660498-77892380-41be-11eb-9201-2470d5cfa676.png">
 <img width="843" alt="스크린샷 2020-12-19 오전 5 53 12" src="https://user-images.githubusercontent.com/50725139/102660511-7bb54100-41be-11eb-9f8c-1b562914eef2.png">
+    
     Image Stitching
 <img width="1461" alt="스크린샷 2020-12-19 오전 5 53 24" src="https://user-images.githubusercontent.com/50725139/102660527-82dc4f00-41be-11eb-8f83-33492960c715.png">
+    
     Image Stitching with Gradient
 <img width="1461" alt="스크린샷 2020-12-19 오전 5 53 28" src="https://user-images.githubusercontent.com/50725139/102660547-896ac680-41be-11eb-9d7e-9bd402141eb8.png">
 
