@@ -26,15 +26,26 @@ Perform Harris Corner Detection
 <img width="869" alt="스크린샷 2020-12-19 오전 5 52 18" src="https://user-images.githubusercontent.com/50725139/102660426-5b858200-41be-11eb-870a-01fa48d90396.png">
 
 ### A2_homography
-Image Maping
+  Image Maping
 <img width="1193" alt="스크린샷 2020-12-19 오전 5 52 35" src="https://user-images.githubusercontent.com/50725139/102660450-66d8ad80-41be-11eb-90b0-4d8aa34494eb.png">
-Compute Homography and Warping
-Normal
+  Compute Homography and Warping
+  Normal
 <img width="843" alt="스크린샷 2020-12-19 오전 5 52 51" src="https://user-images.githubusercontent.com/50725139/102660474-6fc97f00-41be-11eb-9e38-a5418a55ba56.png">
-RANSAC
+  RANSAC
 <img width="843" alt="스크린샷 2020-12-19 오전 5 53 02" src="https://user-images.githubusercontent.com/50725139/102660498-77892380-41be-11eb-9201-2470d5cfa676.png">
 <img width="843" alt="스크린샷 2020-12-19 오전 5 53 12" src="https://user-images.githubusercontent.com/50725139/102660511-7bb54100-41be-11eb-9f8c-1b562914eef2.png">
-Image Stitching
+  Image Stitching
 <img width="1461" alt="스크린샷 2020-12-19 오전 5 53 24" src="https://user-images.githubusercontent.com/50725139/102660527-82dc4f00-41be-11eb-8f83-33492960c715.png">
-Image Stitching with Gradient
+  Image Stitching with Gradient
 <img width="1461" alt="스크린샷 2020-12-19 오전 5 53 28" src="https://user-images.githubusercontent.com/50725139/102660547-896ac680-41be-11eb-9d7e-9bd402141eb8.png">
+
+# Assignment 3
+### Draw Epipolar Line
+<img width="1072" alt="스크린샷 2020-12-19 오전 5 58 48" src="https://user-images.githubusercontent.com/50725139/102660939-44935f80-41bf-11eb-8d5a-698475fb1e54.png">
+<img width="1136" alt="스크린샷 2020-12-19 오전 5 59 03" src="https://user-images.githubusercontent.com/50725139/102660962-4ceb9a80-41bf-11eb-80a8-3fe58dc28a6e.png">
+<img width="880" alt="스크린샷 2020-12-19 오전 5 59 26" src="https://user-images.githubusercontent.com/50725139/102661009-5aa12000-41bf-11eb-87ca-ec024e481d6c.png">
+
+
+# Assignment 4
+### K-means++ and VLAD
+Accuracy:  3.35/4.00
