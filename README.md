@@ -1,12 +1,13 @@
 ## Sungkyunkwan University(SKKU) Computer Vision Assignment
     1. 성균관대학교 2020-2 컴퓨터비전 수업 과제입니다.
-    2. 제 포트폴리오로 사용하기 위해 업로드 한 것입니다. 과제에 이를 사용할 경우, 교수님께 깃헙 방문자 기록을 제공하겠습니다. (과제는 본인힘으로!)
+    2. 제 포트폴리오로 사용하기 위해 업로드 한 것입니다. 과제에 이를 사용하지 마세요!
+    3. 받은 점수 - A+
     
     받은 점수!
     Assignment1 - 96/100 (평균점수 73.2 / 중간값 83.0)
     Assignment2 - 96/100 (평균점수 60.6 / 중간값 63.0)
-    Assignment3 - ??/100 (아직 채점되지 않음)
-    Assingment4 - ??/100 (아직 채점되지 않음)
+    Assignment3 - 81/100 (평균점수 64.5 / 중간값 80.0)
+    Assingment4 - 81/100 (평균점수 50.9 / 중간값 64.5)
 
 # Assignment1 
 ### A1_image_filtering
